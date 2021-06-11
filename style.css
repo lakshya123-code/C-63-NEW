@@ -1,0 +1,22 @@
+body{
+    background-color:#00ff44;
+      margin: 0;
+    padding top: 800px;
+    text-align: center;
+}
+#img{
+    border-radius: 50%;
+        margin-bottom: 50px;
+    width: 100px;
+         height: 300px;
+}
+    .menu{
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    z-index: 10px;
+    cursor: pointer;
+}
+
